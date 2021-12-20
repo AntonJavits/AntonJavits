@@ -1,4 +1,4 @@
-<img alt="AJ Logo" src="aj-logo.png" width="200px"><br>
+<img alt="AJ Logo" src="aj-logo.png" width="180px"><br>
 
 - https://javits.fi/<br>
 - https://www.linkedin.com/in/antonjavits/
