@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @AntonJavits
-- 👀 https://javits.fi/
-- 📫 https://www.linkedin.com/in/antonjavits/
+<img alt="AJ Logo" src="aj-logo.png" width="200px"><br>
+
+- https://javits.fi/<br>
+- https://www.linkedin.com/in/antonjavits/
 
 <!---
 AntonJavits/AntonJavits is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
